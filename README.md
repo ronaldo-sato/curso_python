@@ -1,1 +1,1 @@
-Elaboração de Jupyter Notebook para ensinar (ensinar é também aprender) Python
+Elaboração de Jupyter Notebook para ensinar Python (ensinar é também aprender).
